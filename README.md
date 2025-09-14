@@ -66,7 +66,7 @@ Jupyter Notebook
 
 
 ## 🔗 Live Streamlit App
-👉 [Click here to try the model in action](https://anchal-credit-card-fraud-detection-model-tvczvmsf3idfuqtee3w5bd.streamlit.app/)
+👉 [Click here to try the model in action](https://credit-card-fraud-tsj.streamlit.app/)
 
 This release contains:
 - Trained logistic regression model
